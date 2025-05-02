@@ -12,9 +12,8 @@ Esse é um projeto simples em Python que fiz pra começar a me familirizar com a
 
 # Como rodar esse projeto
 
-1. Clone o repositório:
+1. Clone o repositório digitando o comando no terminal:
 
-```bash
 git clone https://github.com/Caique-sa/gerenciador-tarefas.git
 
 2. Acesse a pasta digitando o comando no terminal:
@@ -34,4 +33,4 @@ python main.py
 
 
 ## Feito por Caique, aprendendo e praticando programação =)
-## git addVeja outros projetos (Espero que já tenha mais de um) no meu GitHub https://github.com/Caique-sa
+## Veja outros projetos (Espero que já tenha mais de um) no meu GitHub https://github.com/Caique-sa
