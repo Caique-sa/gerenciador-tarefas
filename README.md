@@ -32,5 +32,17 @@ python main.py
 - Remover uma tarefa da lista
 
 
-## Feito por Caique, aprendendo e praticando programação =)
-## Veja outros projetos (Espero que já tenha mais de um) no meu GitHub https://github.com/Caique-sa
+# Exemplo visual
+
+Terminal:
+
+![Exemplo de uso](ss_terminal.png)
+
+Listar tarefas:
+
+![Exemplo de uso2](ss_listar.png)
+___
+
+
+Feito por Caique, aprendendo e praticando programação =)
+Veja outros projetos (Espero que já tenha mais de um) no meu GitHub https://github.com/Caique-sa
